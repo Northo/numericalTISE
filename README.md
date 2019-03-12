@@ -1,2 +1,1 @@
-# numericalTUSL
-Numerical TUSL
+# numerical time independent Schrödinger equation
